@@ -3,8 +3,9 @@ This is a website.
 
 Practise GitHub repository.
 
+## Purpose
+
 ## Repository Purpose
 
-This will be a change that conflicts
-with whatever is on the remote side.
-This was edicted locally.
+This file is just a readme file.
+
