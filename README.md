@@ -5,7 +5,5 @@ Practise GitHub repository.
 
 ## Purpose
 
-## Repository Purpose
-
-This file is just a readme file.
+The purpose of thsi file is to be a readme.
 
